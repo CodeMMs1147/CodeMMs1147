@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working in freelance developments giving web services for amazing companies 🏗️<br>Im looking to collaborate with other developers who want to have best practices & learn new things like me 🤹‍♂️<br>Im currently learning about Cloud Infraestructure, SSR, 3D, Design patterns & best practices 🎨<br>Ask me about my favorite services providers 👀
+Im currently working in freelance developments giving web services for amazing companies 🏗️<br>Im looking to collaborate with other developers who want to have best practices & learn new things like me 🤹‍♂️<br>Im currently learning about Cloud Infraestructure, SSR, 3D, Design patterns & best practices 🎨<br>Ask me about my favorite web, cloud & frameworks services providers 👀
 
 
 # 💻 Tech Stack:
